@@ -1,0 +1,1 @@
+c:\users\dincer.uygun\documents\visual studio 2015\Projects\wordcount\wordcount\bin\Debug\SyllableProject.exe.config

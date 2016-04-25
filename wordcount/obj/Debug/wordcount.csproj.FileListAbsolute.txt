@@ -1,0 +1,6 @@
+c:\users\dincer.uygun\documents\visual studio 2015\Projects\wordcount\wordcount\bin\Debug\wordcount.exe.config
+c:\users\dincer.uygun\documents\visual studio 2015\Projects\wordcount\wordcount\obj\Debug\wordcount.csprojResolveAssemblyReference.cache
+c:\users\dincer.uygun\documents\visual studio 2015\Projects\wordcount\wordcount\bin\Debug\wordcount.exe
+c:\users\dincer.uygun\documents\visual studio 2015\Projects\wordcount\wordcount\bin\Debug\wordcount.pdb
+c:\users\dincer.uygun\documents\visual studio 2015\Projects\wordcount\wordcount\obj\Debug\wordcount.exe
+c:\users\dincer.uygun\documents\visual studio 2015\Projects\wordcount\wordcount\obj\Debug\wordcount.pdb
