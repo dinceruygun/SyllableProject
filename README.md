@@ -1,1 +1,1 @@
-# T-rk-e-Heceleme
+C# ile türkçe kelime heceleme algoritması
